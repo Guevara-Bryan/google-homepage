@@ -1,2 +1,2 @@
 # google-homepage
-Google homepage, first project of The Odin Project. This is the optional harder version, which replicates the "search results page".
+Google homepage, first project of The Odin Project. It is a simple starter project which imitates the google homepage.
